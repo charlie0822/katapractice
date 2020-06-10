@@ -55,6 +55,8 @@
   <ItemGroup>
     <Compile Include="kata1\kataAverageString.cs" />
     <Compile Include="kata1\SampleTests.cs" />
+    <Compile Include="kata2\Kata2.cs" />
+    <Compile Include="kata2\samepletest.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
